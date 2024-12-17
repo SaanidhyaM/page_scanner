@@ -1,2 +1,12 @@
 # page_scanner
-made a working page scanner using opencv
+this is a document scanner using opencv
+works best with wooden background
+
+# modules_required
+pip install the following
+1. scikit-image
+2. --upgrade imutils
+
+# how to run
+write this in terminal and run
+"python main.py --image img.jpg"
