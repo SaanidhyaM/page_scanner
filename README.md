@@ -4,8 +4,8 @@ It works best with wooden background
 
 # modules_required
 pip install the following
-1. scikit-image
-2. --upgrade imutils
+1. pip install scikit-image
+2. pip install --upgrade imutils
 
 # how to run
 write this in terminal and run
