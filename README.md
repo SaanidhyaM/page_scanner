@@ -1,6 +1,6 @@
 # page_scanner
-this is a document scanner using opencv
-works best with wooden background
+this is a document scanner using opencv. /n
+It works best with wooden background
 
 # modules_required
 pip install the following
