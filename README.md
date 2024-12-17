@@ -13,3 +13,5 @@ write this in terminal and run
 
 # example
 this is the output with the given image
+
+<img src="Screenshot (3).PNG" alt="python" width="615" height="224" align="centre">
