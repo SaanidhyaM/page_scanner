@@ -14,4 +14,4 @@ write this in terminal and run
 # example
 this is the output with the given image
 
-<img src="output.png" alt="python" width="615" height="224" align="centre">
+<img src="output.png" alt="python" align="centre">
