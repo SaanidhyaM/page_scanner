@@ -10,3 +10,6 @@ pip install the following
 # how to run
 write this in terminal and run
 "python main.py --image img.jpg"
+
+# example
+this is the output with the given image
