@@ -1,5 +1,5 @@
 # page_scanner
-this is a document scanner using opencv. /n
+this is a document scanner using opencv. <br /> 
 It works best with wooden background
 
 # modules_required
